@@ -1,4 +1,4 @@
-![ELYSIUM BROKER](https://raw.githubusercontent.com/elysiumbroker/.github/refs/heads/main/bannerelysium.png?raw=true)
+![ELYSIUM BROKER](https://raw.githubusercontent.com/elysiumbroker/elysiumbroker/refs/heads/main/bannerelysium.png)
 # Elysium Broker
 
 Bem-vindo ao repositório oficial do Elysium Group, a maior plataforma de operações binárias do Brasil.
